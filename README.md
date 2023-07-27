@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Asem-D
 - 👀 I’m interested in IOT
-- 🌱 I’m currently learning firebase
+- 🌱 I’m currently learning opencv
 - 💞️ I’m looking to collaborate on cloud resource management
 - 📫 How to reach me by email at: asem.daaboul@gmail.com
 
